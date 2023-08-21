@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_panel_text_panels",
+  "info": {
+    "displayName": "Text Panel"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Body": {
+      "type": "richtext"
+    }
+  }
+}

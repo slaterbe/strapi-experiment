@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_panel_image_text_panels",
+  "info": {
+    "displayName": "Image Text Panel",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Body": {
+      "type": "richtext"
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "ToggleSide": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    }
+  }
+}

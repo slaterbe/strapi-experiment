@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_people_authors",
+  "info": {
+    "displayName": "Author",
+    "icon": "user",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "email"
+    }
+  }
+}
